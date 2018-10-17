@@ -1,0 +1,6 @@
+token=NTAxOTc3MDkzNDEzMDExNDU2.DqkCgQ.p3dhFj9U6wpHGsXkQmK0zGimvB4
+owner=497825489197727754
+prefix=R
+game=Tybe Rhelp
+stayinchannel=true
+songinstatus=false
